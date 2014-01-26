@@ -1,0 +1,5 @@
+[
+    {
+        "keys": ["super+w", "super+t"], "command": "wolf_timestamp"
+    }
+]
